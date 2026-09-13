@@ -58,9 +58,9 @@ For the displayed 2025 dashboard:
 - Total Tax: ₹39.04K
 ## 📷 Dashboard Preview
 ### Overview Analysis
-![Overview Analysis](overview-analysis.jpg)
+<img src="./overview%20analysis.jpg" alt="Overview Analysis" width="100%">
 ### Transactions
-![Transactions](transactions.jpg)
+<img src="./transactions.JPG" alt="Transactions" width="100%">
 ## 🔑 Key Insights
 - Processed **₹137.53M** across **14.94K transactions** in 2025.
 - Average transaction value reached **₹9.20K**, increasing by **1.98% YoY**.
