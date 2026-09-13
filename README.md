@@ -59,7 +59,7 @@ For the displayed 2025 dashboard:
 ## 📷 Dashboard Preview
 ### Overview Analysis
 <img src="./overview%20analysis.jpg" alt="Overview Analysis" width="100%">
-### Transactions
+Transactions
 <img src="./transactions.JPG" alt="Transactions" width="100%">
 ## 🔑 Key Insights
 - Processed **₹137.53M** across **14.94K transactions** in 2025.
