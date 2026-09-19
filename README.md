@@ -1,8 +1,8 @@
  Finance Analysis Dashboard
- 📊 Project Overview
+  Project Overview
 An interactive Power BI Finance Analytics Dashboard designed to analyze financial transactions, customer segments, transaction types, fees, taxes, and transaction trends.
 The dashboard provides an easy-to-understand view of financial performance and customer transaction behavior.
-🎯 Objectives
+Objectives
 The main objectives of this project are:
 - Analyze total transaction amount
 - Monitor transaction volume and trends
@@ -13,7 +13,7 @@ The main objectives of this project are:
 - Analyze transactions across different states
 - Understand transaction behavior by gender
 - Compare different transaction types
-📌 Dashboard Pages
+   Dashboard Pages
 ### 1. Overview Analysis
 The Overview Analysis page provides a high-level summary of financial performance.
 Key KPIs include:
@@ -43,25 +43,25 @@ The table includes fields such as:
 - Total Amount
 - Total Fees
 - Total Tax
-## 🛠️ Tools & Technologies
+##  Tools & Technologies
 - Microsoft Power BI
 - Power Query
 - DAX
 - Data Visualization
 - Data Analytics
-## 📈 Key Dashboard Metrics
+##  Key Dashboard Metrics
 For the displayed 2025 dashboard:
 - Total Amount: ₹137.53M
 - Total Transactions: 14.94K
 - Average Transaction Value: ₹9.20K
 - Total Fees: ₹216.94K
 - Total Tax: ₹39.04K
-## 📷 Dashboard Preview
+##  Dashboard Preview
 ### Overview Analysis
 <img src="./overview%20analysis.jpg" alt="Overview Analysis" width="100%">
 Transactions
 <img src="./transactions.JPG" alt="Transactions" width="100%">
-## 🔑 Key Insights
+## Key Insights
 - Processed **₹137.53M** across **14.94K transactions** in 2025.
 - Average transaction value reached **₹9.20K**, increasing by **1.98% YoY**.
 - Total transaction value increased by **1.41% YoY**, despite a **0.57% decline** in transaction volume.
